@@ -1,0 +1,15 @@
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\bin\Debug\net7.0\TestTaskMonopoly.exe
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\bin\Debug\net7.0\TestTaskMonopoly.deps.json
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\bin\Debug\net7.0\TestTaskMonopoly.runtimeconfig.json
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\bin\Debug\net7.0\TestTaskMonopoly.dll
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\bin\Debug\net7.0\TestTaskMonopoly.pdb
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\TestTaskMonopoly.csproj.AssemblyReference.cache
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\TestTaskMonopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\TestTaskMonopoly.AssemblyInfoInputs.cache
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\TestTaskMonopoly.AssemblyInfo.cs
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\TestTaskMonopoly.csproj.CoreCompileInputs.cache
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\TestTaskMonopoly.dll
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\refint\TestTaskMonopoly.dll
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\TestTaskMonopoly.pdb
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\TestTaskMonopoly.genruntimeconfig.cache
+C:\C#\TestTaskMonopoly\TestTaskMonopoly\obj\Debug\net7.0\ref\TestTaskMonopoly.dll
